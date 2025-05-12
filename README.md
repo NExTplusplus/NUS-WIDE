@@ -1,4 +1,4 @@
-# NUS-WIDE
+# NUS-WIDE (Official Repo)
 
 ## Dataset Access
 The dataset can be accessed from [huggingface](https://huggingface.co/datasets/Lxyhaha/NUS-WIDE).
